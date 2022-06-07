@@ -1,7 +1,7 @@
 <tr><td bgcolor=white #DDD9C3>
 <font color=black>
 
-### __<font color=black>深圳技术大学课程攻略共享计划</font>__
+# __<font color=black>深圳技术大学课程攻略共享计划</font>__
 
 ## __<font color=black>前言</font>__
 
@@ -50,6 +50,8 @@ __鉴于对文件质量的严格要求，目前有意愿上传学习资料的朋
 <u>_特别感谢：AC、lucky_</u>
 
 ## __<font color=black>使用说明</font>__
+
+_<u>点击文件夹，在文件夹中点击目标文件，双击download可以把文件保存到电脑。</u>_
 
 ___谨记学校规定：___
 
